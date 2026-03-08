@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # 1. Page Config
-st.set_page_config(page_title="Student Skill Analytics", page_icon="🎓", layout="wide")
+st.set_page_config(page_title="Skill Development Program Analysis", page_icon="🎓", layout="wide")
 
 # Custom CSS for Metrics AND Multiselect Tags
 st.markdown("""
